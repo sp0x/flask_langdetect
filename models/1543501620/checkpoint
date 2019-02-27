@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14650"
+all_model_checkpoint_paths: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14000"
+all_model_checkpoint_paths: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14200"
+all_model_checkpoint_paths: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14400"
+all_model_checkpoint_paths: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14600"
+all_model_checkpoint_paths: "/home/v_g_vasilev94/cnn/langdetect_cnn/models/1543501620/model.ckpt-14650"

@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "cnn/embedding/embedding:0"
+  metadata_path: "/home/v_g_vasilev94/cnn/langdetect_cnn/data/ted500/metadata.tsv"
+}
